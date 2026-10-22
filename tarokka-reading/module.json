@@ -2,10 +2,10 @@
   "id": "tarokka-reading",
   "title": "Leitura Tarokka 3D - A Maldição de Strahd",
   "description": "Leitura Tarokka na tenda de Madame Eva, com conteúdo revisado, sorteio oficial ou sequência predeterminada de Curse of Strahd: Reloaded, cartas ampliadas e sincronizadas. Sem áudio.",
-  "version": "2.9.0",
+  "version": "2.9.1",
   "url": "https://github.com/Crespo767/tarokka-reading",
   "manifest": "https://github.com/Crespo767/tarokka-reading/releases/latest/download/module.json",
-  "download": "https://github.com/Crespo767/tarokka-reading/releases/download/v2.9.0/tarokka-reading-2.9.0.zip",
+  "download": "https://github.com/Crespo767/tarokka-reading/releases/download/v2.9.1/tarokka-reading-2.9.1.zip",
   "bugs": "https://github.com/Crespo767/tarokka-reading/issues",
   "compatibility": {
     "minimum": "12",
@@ -33,9 +33,11 @@
     }
   ],
   "relationships": {
-    "recommends": [
-      {"id": "curse-of-strahd-pt-br", "type": "module"},
+    "requires": [
       {"id": "dice-so-nice", "type": "module"}
+    ],
+    "recommends": [
+      {"id": "curse-of-strahd-pt-br", "type": "module"}
     ]
   },
   "flags": {},
