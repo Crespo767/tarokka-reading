@@ -4,13 +4,11 @@ Leve seus jogadores à tenda de Madame Eva no Foundry VTT: uma mesa 3D com carta
 
 ## Imagens do módulo
 
-**A mesa de Madame Eva**
+![Mesa de Madame Eva na visão do jogador](docs/previews/tarokka-player-table.png)
 
-![Mesa de Madame Eva com o baralho Tarokka e os controles do mestre](docs/previews/performance-after.png)
+![Carta Tarokka ampliada na visão do jogador](docs/previews/tarokka-player-card.png)
 
-**Cartas ampliadas e profecias em português**
-
-![Carta Tarokka ampliada com sua profecia em português na visão do jogador](docs/previews/performance-player.png)
+![Dado durante a rolagem sobre a mesa na visão do jogador](docs/previews/tarokka-player-dice.png)
 
 ## Instalação
 
