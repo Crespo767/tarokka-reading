@@ -2,8 +2,6 @@
 
 Leve seus jogadores à tenda de Madame Eva no Foundry VTT: uma mesa 3D com cartas animadas, profecias em português e leitura compartilhada entre mestre e jogadores. Inclui os modos **Oficial** e **Curse of Strahd: Reloaded**, além de integração opcional com **Dice So Nice**.
 
-## Imagens do módulo
-
 ![Mesa de Madame Eva na visão do jogador](docs/previews/tarokka-player-table.png)
 
 ![Carta Tarokka ampliada na visão do jogador](docs/previews/tarokka-player-card.png)
