@@ -1,0 +1,11 @@
+{
+  "sampleEndMs": 3894,
+  "resourceBytes": 5327382,
+  "imageBytes": 4121470,
+  "geometryBytes": 1081476,
+  "drawCalls": 63,
+  "triangles": 39480,
+  "gpuTextures": 12,
+  "idleRendersPerSecond": 0,
+  "errors": []
+}

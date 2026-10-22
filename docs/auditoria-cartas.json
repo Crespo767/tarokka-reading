@@ -1,0 +1,3518 @@
+{
+  "reviewedAt": "2026-10-20",
+  "officialSource": "Curse of Strahd.md (referência local)",
+  "coverage": {
+    "cards": 54,
+    "symbolicMeanings": 54,
+    "treasureAssociations": 40,
+    "allyResultsIncludingAlternatives": 21,
+    "strahdLocations": 14
+  },
+  "cards": [
+    {
+      "id": "swords-1",
+      "name": "Vingador",
+      "nameEn": "Avenger",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "tome": "Q36",
+        "symbol": "Q36",
+        "sword": "Q36"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "Uma espada flamejante que não conhece misericórdia.",
+          "after": "Justiça e vingança por grandes injustiças; a busca para livrar o mundo de um grande mal."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.sword.area",
+          "before": null,
+          "after": "Q36"
+        },
+        {
+          "field": "readings.sword.location",
+          "before": "O tesouro está sob a posse de Vladimir Horngaard em Argynvostholt (Salão de Audiências do Dragão).",
+          "after": "Vladimir Horngaard guarda o tesouro no Salão de Audiências do Dragão, em Argynvostholt (cap. 7, Q36)."
+        },
+        {
+          "field": "readings.sword.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.symbol.area",
+          "before": null,
+          "after": "Q36"
+        },
+        {
+          "field": "readings.symbol.location",
+          "before": "O tesouro está sob a posse de Vladimir Horngaard em Argynvostholt (Salão de Audiências do Dragão).",
+          "after": "Vladimir Horngaard guarda o tesouro no Salão de Audiências do Dragão, em Argynvostholt (cap. 7, Q36)."
+        },
+        {
+          "field": "readings.symbol.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.tome.area",
+          "before": null,
+          "after": "Q36"
+        },
+        {
+          "field": "readings.tome.location",
+          "before": "O tesouro está sob a posse de Vladimir Horngaard em Argynvostholt (Salão de Audiências do Dragão).",
+          "after": "Vladimir Horngaard guarda o tesouro no Salão de Audiências do Dragão, em Argynvostholt (cap. 7, Q36)."
+        },
+        {
+          "field": "readings.tome.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        }
+      ]
+    },
+    {
+      "id": "swords-2",
+      "name": "Paladino",
+      "nameEn": "Paladin",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "tome": "K85",
+        "symbol": "K85",
+        "sword": "K85"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "Um cavaleiro sagrado que protege os fracos com fé inabalável.",
+          "after": "Guerreiros justos e nobres; honra e integridade guiadas por um código de conduta."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.sword.area",
+          "before": null,
+          "after": "K85"
+        },
+        {
+          "field": "readings.sword.location",
+          "before": "O tesouro repousa na tumba de Sergei (Castelo Ravenloft, K85).",
+          "after": "Tumba de Sergei, no Castelo Ravenloft (cap. 4, K85)."
+        },
+        {
+          "field": "readings.sword.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.symbol.area",
+          "before": null,
+          "after": "K85"
+        },
+        {
+          "field": "readings.symbol.location",
+          "before": "O tesouro repousa na tumba de Sergei (Castelo Ravenloft, K85).",
+          "after": "Tumba de Sergei, no Castelo Ravenloft (cap. 4, K85)."
+        },
+        {
+          "field": "readings.symbol.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.tome.area",
+          "before": null,
+          "after": "K85"
+        },
+        {
+          "field": "readings.tome.location",
+          "before": "O tesouro repousa na tumba de Sergei (Castelo Ravenloft, K85).",
+          "after": "Tumba de Sergei, no Castelo Ravenloft (cap. 4, K85)."
+        },
+        {
+          "field": "readings.tome.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        }
+      ]
+    },
+    {
+      "id": "swords-3",
+      "name": "Soldado",
+      "nameEn": "Soldier",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "tome": "T6",
+        "symbol": "T6",
+        "sword": "T6"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "Um guerreiro marcado pela disciplina e pela obediência cega.",
+          "after": "Guerra e sacrifício; resistência para suportar grandes provações."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.sword.area",
+          "before": null,
+          "after": "T6"
+        },
+        {
+          "field": "readings.sword.location",
+          "before": "O tesouro repousa no telhado da torre de guarda da Passagem de Tsolenka.",
+          "after": "Telhado da torre de guarda da Passagem de Tsolenka (cap. 9, T6)."
+        },
+        {
+          "field": "readings.sword.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.symbol.area",
+          "before": null,
+          "after": "T6"
+        },
+        {
+          "field": "readings.symbol.location",
+          "before": "O tesouro repousa no telhado da torre de guarda da Passagem de Tsolenka.",
+          "after": "Telhado da torre de guarda da Passagem de Tsolenka (cap. 9, T6)."
+        },
+        {
+          "field": "readings.symbol.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.tome.area",
+          "before": null,
+          "after": "T6"
+        },
+        {
+          "field": "readings.tome.location",
+          "before": "O tesouro repousa no telhado da torre de guarda da Passagem de Tsolenka.",
+          "after": "Telhado da torre de guarda da Passagem de Tsolenka (cap. 9, T6)."
+        },
+        {
+          "field": "readings.tome.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        }
+      ]
+    },
+    {
+      "id": "swords-4",
+      "name": "Mercenário",
+      "nameEn": "Mercenary",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "tome": "K84/31",
+        "symbol": "K84/31",
+        "sword": "K84/31"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "Uma lâmina que serve a quem pagar mais, sem honra nem lealdade.",
+          "after": "Força interior e perseverança; aqueles que lutam por poder ou riqueza."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.sword.area",
+          "before": null,
+          "after": "K84/31"
+        },
+        {
+          "field": "readings.sword.location",
+          "before": "O tesouro repousa em uma cripta no Castelo Ravenloft (Cripta 31).",
+          "after": "Cripta 31 das catacumbas do Castelo Ravenloft (cap. 4, K84)."
+        },
+        {
+          "field": "readings.sword.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.symbol.area",
+          "before": null,
+          "after": "K84/31"
+        },
+        {
+          "field": "readings.symbol.location",
+          "before": "O tesouro repousa em uma cripta no Castelo Ravenloft (Cripta 31).",
+          "after": "Cripta 31 das catacumbas do Castelo Ravenloft (cap. 4, K84)."
+        },
+        {
+          "field": "readings.symbol.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.tome.area",
+          "before": null,
+          "after": "K84/31"
+        },
+        {
+          "field": "readings.tome.location",
+          "before": "O tesouro repousa em uma cripta no Castelo Ravenloft (Cripta 31).",
+          "after": "Cripta 31 das catacumbas do Castelo Ravenloft (cap. 4, K84)."
+        },
+        {
+          "field": "readings.tome.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        }
+      ]
+    },
+    {
+      "id": "swords-5",
+      "name": "Mirmidão",
+      "nameEn": "Myrmidon",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "tome": "Z7",
+        "symbol": "Z7",
+        "sword": "Z7"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "Um guerreiro de elite que segue ordens sem questionar.",
+          "after": "Grandes heróis; uma súbita reviravolta do destino; a vitória do mais fraco sobre um inimigo poderoso."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.sword.area",
+          "before": null,
+          "after": "Z7"
+        },
+        {
+          "field": "readings.sword.location",
+          "before": "O tesouro repousa no santuário da Mãe Noite no Covil dos Lobisomens.",
+          "after": "Santuário da Mãe Noite, no Covil dos Lobisomens (cap. 15, Z7)."
+        },
+        {
+          "field": "readings.sword.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.symbol.area",
+          "before": null,
+          "after": "Z7"
+        },
+        {
+          "field": "readings.symbol.location",
+          "before": "O tesouro repousa no santuário da Mãe Noite no Covil dos Lobisomens.",
+          "after": "Santuário da Mãe Noite, no Covil dos Lobisomens (cap. 15, Z7)."
+        },
+        {
+          "field": "readings.symbol.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.tome.area",
+          "before": null,
+          "after": "Z7"
+        },
+        {
+          "field": "readings.tome.location",
+          "before": "O tesouro repousa no santuário da Mãe Noite no Covil dos Lobisomens.",
+          "after": "Santuário da Mãe Noite, no Covil dos Lobisomens (cap. 15, Z7)."
+        },
+        {
+          "field": "readings.tome.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        }
+      ]
+    },
+    {
+      "id": "swords-6",
+      "name": "Berserker",
+      "nameEn": "Berserker",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "tome": "K84/38",
+        "symbol": "K84/38",
+        "sword": "K84/38"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "Uma fúria incontrolável que destrói amigo e inimigo sem distinção.",
+          "after": "A face brutal e bárbara da guerra; sede de sangue; uma natureza bestial."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.sword.area",
+          "before": null,
+          "after": "K84/38"
+        },
+        {
+          "field": "readings.sword.location",
+          "before": "O tesouro repousa na cripta do General Kroval \"Cão Louco\" Grislek (Castelo Ravenloft, Cripta 38).",
+          "after": "Cripta do General Kroval “Cão Louco” Grislek, no Castelo Ravenloft (cap. 4, K84, cripta 38)."
+        },
+        {
+          "field": "readings.sword.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.symbol.area",
+          "before": null,
+          "after": "K84/38"
+        },
+        {
+          "field": "readings.symbol.location",
+          "before": "O tesouro repousa na cripta do General Kroval \"Cão Louco\" Grislek (Castelo Ravenloft, Cripta 38).",
+          "after": "Cripta do General Kroval “Cão Louco” Grislek, no Castelo Ravenloft (cap. 4, K84, cripta 38)."
+        },
+        {
+          "field": "readings.symbol.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.tome.area",
+          "before": null,
+          "after": "K84/38"
+        },
+        {
+          "field": "readings.tome.location",
+          "before": "O tesouro repousa na cripta do General Kroval \"Cão Louco\" Grislek (Castelo Ravenloft, Cripta 38).",
+          "after": "Cripta do General Kroval “Cão Louco” Grislek, no Castelo Ravenloft (cap. 4, K84, cripta 38)."
+        },
+        {
+          "field": "readings.tome.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        }
+      ]
+    },
+    {
+      "id": "swords-7",
+      "name": "O Encapuzado",
+      "nameEn": "Hooded One",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "tome": "X5a",
+        "symbol": "X5a",
+        "sword": "X5a"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "Um rosto escondido nas sombras, cujos motivos ninguém conhece.",
+          "after": "Fanatismo, intolerância e xenofobia; uma presença misteriosa ou alguém recém-chegado."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.sword.area",
+          "before": null,
+          "after": "X5a"
+        },
+        {
+          "field": "readings.sword.location",
+          "before": "O tesouro está dentro da cabeça da estátua gigante no Templo de Âmbar.",
+          "after": "Dentro da cabeça da estátua gigante do Templo de Âmbar (cap. 13, X5a)."
+        },
+        {
+          "field": "readings.sword.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.symbol.area",
+          "before": null,
+          "after": "X5a"
+        },
+        {
+          "field": "readings.symbol.location",
+          "before": "O tesouro está dentro da cabeça da estátua gigante no Templo de Âmbar.",
+          "after": "Dentro da cabeça da estátua gigante do Templo de Âmbar (cap. 13, X5a)."
+        },
+        {
+          "field": "readings.symbol.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.tome.area",
+          "before": null,
+          "after": "X5a"
+        },
+        {
+          "field": "readings.tome.location",
+          "before": "O tesouro está dentro da cabeça da estátua gigante no Templo de Âmbar.",
+          "after": "Dentro da cabeça da estátua gigante do Templo de Âmbar (cap. 13, X5a)."
+        },
+        {
+          "field": "readings.tome.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        }
+      ]
+    },
+    {
+      "id": "swords-8",
+      "name": "Ditador",
+      "nameEn": "Dictator",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "tome": "K25",
+        "symbol": "K25",
+        "sword": "K25"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "Um tirano que governa pelo medo e pela opressão absoluta.",
+          "after": "Os males do governo e da liderança; aqueles que governam pelo medo e pela violência."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.sword.area",
+          "before": null,
+          "after": "K25"
+        },
+        {
+          "field": "readings.sword.location",
+          "before": "O tesouro repousa no salão de audiências do Castelo Ravenloft (K25).",
+          "after": "Salão de Audiências do Castelo Ravenloft (cap. 4, K25)."
+        },
+        {
+          "field": "readings.sword.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.symbol.area",
+          "before": null,
+          "after": "K25"
+        },
+        {
+          "field": "readings.symbol.location",
+          "before": "O tesouro repousa no salão de audiências do Castelo Ravenloft (K25).",
+          "after": "Salão de Audiências do Castelo Ravenloft (cap. 4, K25)."
+        },
+        {
+          "field": "readings.symbol.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.tome.area",
+          "before": null,
+          "after": "K25"
+        },
+        {
+          "field": "readings.tome.location",
+          "before": "O tesouro repousa no salão de audiências do Castelo Ravenloft (K25).",
+          "after": "Salão de Audiências do Castelo Ravenloft (cap. 4, K25)."
+        },
+        {
+          "field": "readings.tome.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        }
+      ]
+    },
+    {
+      "id": "swords-9",
+      "name": "Torturador",
+      "nameEn": "Torturer",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "tome": "N3s",
+        "symbol": "N3s",
+        "sword": "N3s"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "Um carrasco que extrai verdades através do sofrimento.",
+          "after": "Sofrimento ou crueldade implacável por vir; maldade ou sadismo irredimíveis."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.sword.area",
+          "before": null,
+          "after": "N3s"
+        },
+        {
+          "field": "readings.sword.location",
+          "before": "O tesouro está escondido no sótão da mansão do burgomestre na Cidade de Vallaki.",
+          "after": "Depósito do sótão da mansão do burgomestre de Vallaki (cap. 5, N3s), não a oficina de Victor em N3t."
+        },
+        {
+          "field": "readings.sword.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.symbol.area",
+          "before": null,
+          "after": "N3s"
+        },
+        {
+          "field": "readings.symbol.location",
+          "before": "O tesouro está escondido no sótão da mansão do burgomestre na Cidade de Vallaki.",
+          "after": "Depósito do sótão da mansão do burgomestre de Vallaki (cap. 5, N3s), não a oficina de Victor em N3t."
+        },
+        {
+          "field": "readings.symbol.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.tome.area",
+          "before": null,
+          "after": "N3s"
+        },
+        {
+          "field": "readings.tome.location",
+          "before": "O tesouro está escondido no sótão da mansão do burgomestre na Cidade de Vallaki.",
+          "after": "Depósito do sótão da mansão do burgomestre de Vallaki (cap. 5, N3s), não a oficina de Victor em N3t."
+        },
+        {
+          "field": "readings.tome.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        }
+      ]
+    },
+    {
+      "id": "swords-10",
+      "name": "Guerreiro",
+      "nameEn": "Warrior",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "tome": "K86",
+        "symbol": "K86",
+        "sword": "K86"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "O mestre das espadas, cuja arte é a guerra perfeita.",
+          "after": "Força e violência personificadas; aqueles que usam a força para atingir seus objetivos."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.sword.area",
+          "before": null,
+          "after": "K86"
+        },
+        {
+          "field": "readings.sword.location",
+          "before": "O tesouro repousa na tumba de Strahd (Castelo Ravenloft, K86).",
+          "after": "Tumba de Strahd, no Castelo Ravenloft (cap. 4, K86)."
+        },
+        {
+          "field": "readings.sword.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.symbol.area",
+          "before": null,
+          "after": "K86"
+        },
+        {
+          "field": "readings.symbol.location",
+          "before": "O tesouro repousa na tumba de Strahd (Castelo Ravenloft, K86).",
+          "after": "Tumba de Strahd, no Castelo Ravenloft (cap. 4, K86)."
+        },
+        {
+          "field": "readings.symbol.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.tome.area",
+          "before": null,
+          "after": "K86"
+        },
+        {
+          "field": "readings.tome.location",
+          "before": "O tesouro repousa na tumba de Strahd (Castelo Ravenloft, K86).",
+          "after": "Tumba de Strahd, no Castelo Ravenloft (cap. 4, K86)."
+        },
+        {
+          "field": "readings.tome.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        }
+      ]
+    },
+    {
+      "id": "stars-1",
+      "name": "Transmutador",
+      "nameEn": "Transmuter",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "tome": "K60",
+        "symbol": "K60",
+        "sword": "K60"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "A arte de transformar uma coisa em outra — até almas.",
+          "after": "Uma nova descoberta; acontecimentos inesperados; consequências imprevistas e caos."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.sword.area",
+          "before": null,
+          "after": "K60"
+        },
+        {
+          "field": "readings.sword.location",
+          "before": "O tesouro repousa no pico da torre norte do Castelo Ravenloft (K60).",
+          "after": "Pico da torre norte do Castelo Ravenloft (cap. 4, K60)."
+        },
+        {
+          "field": "readings.sword.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.symbol.area",
+          "before": null,
+          "after": "K60"
+        },
+        {
+          "field": "readings.symbol.location",
+          "before": "O tesouro repousa no pico da torre norte do Castelo Ravenloft (K60).",
+          "after": "Pico da torre norte do Castelo Ravenloft (cap. 4, K60)."
+        },
+        {
+          "field": "readings.symbol.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.tome.area",
+          "before": null,
+          "after": "K60"
+        },
+        {
+          "field": "readings.tome.location",
+          "before": "O tesouro repousa no pico da torre norte do Castelo Ravenloft (K60).",
+          "after": "Pico da torre norte do Castelo Ravenloft (cap. 4, K60)."
+        },
+        {
+          "field": "readings.tome.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        }
+      ]
+    },
+    {
+      "id": "stars-2",
+      "name": "Adivinho",
+      "nameEn": "Diviner",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "tome": "G",
+        "symbol": "G",
+        "sword": "G"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "Olhos que veem além do véu, além do tempo.",
+          "after": "Conhecimento temperado pela sabedoria; verdade, honestidade, sábios e profecia."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.sword.area",
+          "before": null,
+          "after": "G"
+        },
+        {
+          "field": "readings.sword.location",
+          "before": "O tesouro repousa no acampamento de Madame Eva.",
+          "after": "Acampamento de Madame Eva na Poça de Tser (cap. 2, G). Se Eva conduz a leitura, acrescenta que o tesouro está debaixo de seu próprio nariz."
+        },
+        {
+          "field": "readings.sword.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.symbol.area",
+          "before": null,
+          "after": "G"
+        },
+        {
+          "field": "readings.symbol.location",
+          "before": "O tesouro repousa no acampamento de Madame Eva.",
+          "after": "Acampamento de Madame Eva na Poça de Tser (cap. 2, G). Se Eva conduz a leitura, acrescenta que o tesouro está debaixo de seu próprio nariz."
+        },
+        {
+          "field": "readings.symbol.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.tome.area",
+          "before": null,
+          "after": "G"
+        },
+        {
+          "field": "readings.tome.location",
+          "before": "O tesouro repousa no acampamento de Madame Eva.",
+          "after": "Acampamento de Madame Eva na Poça de Tser (cap. 2, G). Se Eva conduz a leitura, acrescenta que o tesouro está debaixo de seu próprio nariz."
+        },
+        {
+          "field": "readings.tome.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        }
+      ]
+    },
+    {
+      "id": "stars-3",
+      "name": "Encantador",
+      "nameEn": "Enchanter",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "tome": "U5",
+        "symbol": "U5",
+        "sword": "U5"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "Uma mente que domina outras mentes, sussurrando vontades.",
+          "after": "Conflito interior causado por confusão, medo do fracasso ou informações falsas."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.sword.area",
+          "before": null,
+          "after": "U5"
+        },
+        {
+          "field": "readings.sword.location",
+          "before": "O tesouro repousa sob o monumento de Marina nas Ruínas de Berez.",
+          "after": "Sob o monumento de Marina, em Berez (cap. 10, U5). O “mestre do pântano” é o fantasma do burgomestre Lazlo Ulrich em U2, que pode indicar o monumento."
+        },
+        {
+          "field": "readings.sword.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.symbol.area",
+          "before": null,
+          "after": "U5"
+        },
+        {
+          "field": "readings.symbol.location",
+          "before": "O tesouro repousa sob o monumento de Marina nas Ruínas de Berez.",
+          "after": "Sob o monumento de Marina, em Berez (cap. 10, U5). O “mestre do pântano” é o fantasma do burgomestre Lazlo Ulrich em U2, que pode indicar o monumento."
+        },
+        {
+          "field": "readings.symbol.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.tome.area",
+          "before": null,
+          "after": "U5"
+        },
+        {
+          "field": "readings.tome.location",
+          "before": "O tesouro repousa sob o monumento de Marina nas Ruínas de Berez.",
+          "after": "Sob o monumento de Marina, em Berez (cap. 10, U5). O “mestre do pântano” é o fantasma do burgomestre Lazlo Ulrich em U2, que pode indicar o monumento."
+        },
+        {
+          "field": "readings.tome.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        }
+      ]
+    },
+    {
+      "id": "stars-4",
+      "name": "Abjurador",
+      "nameEn": "Abjurer",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "tome": "Q53",
+        "symbol": "Q53",
+        "sword": "Q53"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "Um escudo contra as forças do mal, uma barreira de pura vontade.",
+          "after": "Lógica e razão; um aviso sobre uma pista ou informação que passou despercebida."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.sword.area",
+          "before": null,
+          "after": "Q53"
+        },
+        {
+          "field": "readings.sword.location",
+          "before": "O tesouro repousa no farol de Argynvostholt.",
+          "after": "Farol de Argynvostholt (cap. 7, Q53). O dragão de pedra da pista é a estátua de Q1."
+        },
+        {
+          "field": "readings.sword.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.symbol.area",
+          "before": null,
+          "after": "Q53"
+        },
+        {
+          "field": "readings.symbol.location",
+          "before": "O tesouro repousa no farol de Argynvostholt.",
+          "after": "Farol de Argynvostholt (cap. 7, Q53). O dragão de pedra da pista é a estátua de Q1."
+        },
+        {
+          "field": "readings.symbol.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.tome.area",
+          "before": null,
+          "after": "Q53"
+        },
+        {
+          "field": "readings.tome.location",
+          "before": "O tesouro repousa no farol de Argynvostholt.",
+          "after": "Farol de Argynvostholt (cap. 7, Q53). O dragão de pedra da pista é a estátua de Q1."
+        },
+        {
+          "field": "readings.tome.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        }
+      ]
+    },
+    {
+      "id": "stars-5",
+      "name": "Elementalista",
+      "nameEn": "Elementalist",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "tome": "X20",
+        "symbol": "X20",
+        "sword": "X20"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "Fogo, água, terra e ar dançam sob seu comando.",
+          "after": "O triunfo da natureza sobre a civilização; desastres naturais e colheitas abundantes."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.sword.area",
+          "before": null,
+          "after": "X20"
+        },
+        {
+          "field": "readings.sword.location",
+          "before": "O tesouro está dentro de uma maquete do Castelo Ravenloft no Templo de Âmbar.",
+          "after": "Dentro da maquete do Castelo Ravenloft no Templo de Âmbar (cap. 13, X20)."
+        },
+        {
+          "field": "readings.sword.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.symbol.area",
+          "before": null,
+          "after": "X20"
+        },
+        {
+          "field": "readings.symbol.location",
+          "before": "O tesouro está dentro de uma maquete do Castelo Ravenloft no Templo de Âmbar.",
+          "after": "Dentro da maquete do Castelo Ravenloft no Templo de Âmbar (cap. 13, X20)."
+        },
+        {
+          "field": "readings.symbol.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.tome.area",
+          "before": null,
+          "after": "X20"
+        },
+        {
+          "field": "readings.tome.location",
+          "before": "O tesouro está dentro de uma maquete do Castelo Ravenloft no Templo de Âmbar.",
+          "after": "Dentro da maquete do Castelo Ravenloft no Templo de Âmbar (cap. 13, X20)."
+        },
+        {
+          "field": "readings.tome.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        }
+      ]
+    },
+    {
+      "id": "stars-6",
+      "name": "Evocador",
+      "nameEn": "Evoker",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "tome": "K84/37",
+        "symbol": "K84/37",
+        "sword": "K84/37"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "Raios e chamas que destroem tudo ao redor sem distinção.",
+          "after": "Poder mágico ou sobrenatural incontrolável; magia usada para destruir."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.sword.area",
+          "before": null,
+          "after": "K84/37"
+        },
+        {
+          "field": "readings.sword.location",
+          "before": "O tesouro está escondido na cripta de Gralmore Nimblenobs (Castelo Ravenloft, Cripta 37).",
+          "after": "Cripta de Gralmore Nimblenobs no Castelo Ravenloft (cap. 4, K84, cripta 37)."
+        },
+        {
+          "field": "readings.sword.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.symbol.area",
+          "before": null,
+          "after": "K84/37"
+        },
+        {
+          "field": "readings.symbol.location",
+          "before": "O tesouro está escondido na cripta de Gralmore Nimblenobs (Castelo Ravenloft, Cripta 37).",
+          "after": "Cripta de Gralmore Nimblenobs no Castelo Ravenloft (cap. 4, K84, cripta 37)."
+        },
+        {
+          "field": "readings.symbol.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.tome.area",
+          "before": null,
+          "after": "K84/37"
+        },
+        {
+          "field": "readings.tome.location",
+          "before": "O tesouro está escondido na cripta de Gralmore Nimblenobs (Castelo Ravenloft, Cripta 37).",
+          "after": "Cripta de Gralmore Nimblenobs no Castelo Ravenloft (cap. 4, K84, cripta 37)."
+        },
+        {
+          "field": "readings.tome.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        }
+      ]
+    },
+    {
+      "id": "stars-7",
+      "name": "Ilusionista",
+      "nameEn": "Illusionist",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "tome": "N5",
+        "symbol": "N5",
+        "sword": "N5"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "Nada do que você vê é real; nada do que é real você vê.",
+          "after": "Mentiras e engano; grandes conspirações e sociedades secretas; um tolo enganado ou um sabotador."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.sword.area",
+          "before": null,
+          "after": "N5"
+        },
+        {
+          "field": "readings.sword.location",
+          "before": "O tesouro repousa na carroça de carnaval de Rictavio na Cidade de Vallaki.",
+          "after": "Carroça de Rictavio no pátio de estoque de Vallaki (cap. 5, N5)."
+        },
+        {
+          "field": "readings.sword.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.symbol.area",
+          "before": null,
+          "after": "N5"
+        },
+        {
+          "field": "readings.symbol.location",
+          "before": "O tesouro repousa na carroça de carnaval de Rictavio na Cidade de Vallaki.",
+          "after": "Carroça de Rictavio no pátio de estoque de Vallaki (cap. 5, N5)."
+        },
+        {
+          "field": "readings.symbol.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.tome.area",
+          "before": null,
+          "after": "N5"
+        },
+        {
+          "field": "readings.tome.location",
+          "before": "O tesouro repousa na carroça de carnaval de Rictavio na Cidade de Vallaki.",
+          "after": "Carroça de Rictavio no pátio de estoque de Vallaki (cap. 5, N5)."
+        },
+        {
+          "field": "readings.tome.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        }
+      ]
+    },
+    {
+      "id": "stars-8",
+      "name": "Necromante",
+      "nameEn": "Necromancer",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "tome": "K37",
+        "symbol": "K37",
+        "sword": "K37"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "A fronteira entre a vida e a morte é apenas uma sugestão.",
+          "after": "Acontecimentos antinaturais e obsessões nocivas; aqueles que seguem um caminho de destruição."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.sword.area",
+          "before": null,
+          "after": "K37"
+        },
+        {
+          "field": "readings.sword.location",
+          "before": "O tesouro repousa no estudo do Castelo Ravenloft (K37).",
+          "after": "Escritório do Castelo Ravenloft (cap. 4, K37). A mulher da pista é o retrato de Tatyana sobre a lareira."
+        },
+        {
+          "field": "readings.sword.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.symbol.area",
+          "before": null,
+          "after": "K37"
+        },
+        {
+          "field": "readings.symbol.location",
+          "before": "O tesouro repousa no estudo do Castelo Ravenloft (K37).",
+          "after": "Escritório do Castelo Ravenloft (cap. 4, K37). A mulher da pista é o retrato de Tatyana sobre a lareira."
+        },
+        {
+          "field": "readings.symbol.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.tome.area",
+          "before": null,
+          "after": "K37"
+        },
+        {
+          "field": "readings.tome.location",
+          "before": "O tesouro repousa no estudo do Castelo Ravenloft (K37).",
+          "after": "Escritório do Castelo Ravenloft (cap. 4, K37). A mulher da pista é o retrato de Tatyana sobre a lareira."
+        },
+        {
+          "field": "readings.tome.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        }
+      ]
+    },
+    {
+      "id": "stars-9",
+      "name": "Conjurador",
+      "nameEn": "Conjurer",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "tome": "U3",
+        "symbol": "U3",
+        "sword": "U3"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "Traz seres de outros planos com um gesto e uma palavra.",
+          "after": "Uma ameaça sobrenatural inesperada que se aproxima; aqueles que se consideram deuses."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.sword.area",
+          "before": null,
+          "after": "U3"
+        },
+        {
+          "field": "readings.sword.location",
+          "before": "O tesouro está na cabana de Baba Lysaga nas Ruínas de Berez.",
+          "after": "Cabana de Baba Lysaga nas ruínas de Berez (cap. 10, U3)."
+        },
+        {
+          "field": "readings.sword.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.symbol.area",
+          "before": null,
+          "after": "U3"
+        },
+        {
+          "field": "readings.symbol.location",
+          "before": "O tesouro está na cabana de Baba Lysaga nas Ruínas de Berez.",
+          "after": "Cabana de Baba Lysaga nas ruínas de Berez (cap. 10, U3)."
+        },
+        {
+          "field": "readings.symbol.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.tome.area",
+          "before": null,
+          "after": "U3"
+        },
+        {
+          "field": "readings.tome.location",
+          "before": "O tesouro está na cabana de Baba Lysaga nas Ruínas de Berez.",
+          "after": "Cabana de Baba Lysaga nas ruínas de Berez (cap. 10, U3)."
+        },
+        {
+          "field": "readings.tome.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        }
+      ]
+    },
+    {
+      "id": "stars-10",
+      "name": "Mago",
+      "nameEn": "Wizard",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "tome": "V7",
+        "symbol": "V7",
+        "sword": "V7"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "O mestre supremo do arcano, cujo poder não conhece limites.",
+          "after": "Mistérios, enigmas e o desconhecido; aqueles que anseiam por poder mágico e grande conhecimento."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.sword.area",
+          "before": null,
+          "after": "V7"
+        },
+        {
+          "field": "readings.sword.location",
+          "before": "O tesouro repousa no andar mais alto da Torre de Van Richten.",
+          "after": "Quarto andar da Torre de Van Richten (cap. 11, V7)."
+        },
+        {
+          "field": "readings.sword.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.symbol.area",
+          "before": null,
+          "after": "V7"
+        },
+        {
+          "field": "readings.symbol.location",
+          "before": "O tesouro repousa no andar mais alto da Torre de Van Richten.",
+          "after": "Quarto andar da Torre de Van Richten (cap. 11, V7)."
+        },
+        {
+          "field": "readings.symbol.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.tome.area",
+          "before": null,
+          "after": "V7"
+        },
+        {
+          "field": "readings.tome.location",
+          "before": "O tesouro repousa no andar mais alto da Torre de Van Richten.",
+          "after": "Quarto andar da Torre de Van Richten (cap. 11, V7)."
+        },
+        {
+          "field": "readings.tome.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        }
+      ]
+    },
+    {
+      "id": "coins-1",
+      "name": "Espadachim",
+      "nameEn": "Swashbuckler",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "tome": "K84/7",
+        "symbol": "K84/7",
+        "sword": "K84/7"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "Charme, ousadia e uma lâmina que nunca erra.",
+          "after": "Aqueles que gostam de dinheiro, mas o dão livremente; ladinos e patifes carismáticos."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.sword.area",
+          "before": null,
+          "after": "K84/7"
+        },
+        {
+          "field": "readings.sword.location",
+          "before": "O tesouro repousa na cripta de Endorovich (Castelo Ravenloft, Cripta 7).",
+          "after": "Cripta de Endorovich no Castelo Ravenloft (cap. 4, K84, cripta 7)."
+        },
+        {
+          "field": "readings.sword.prophecy",
+          "before": "Eu vejo o esqueleto de um guerreiro mortal, deitado em uma cama de pedra flanqueado por gárgulas.",
+          "after": "Eu vejo o esqueleto de um guerreiro temível, deitado sobre um leito de pedra ladeado por gárgulas."
+        },
+        {
+          "field": "readings.sword.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.symbol.area",
+          "before": null,
+          "after": "K84/7"
+        },
+        {
+          "field": "readings.symbol.location",
+          "before": "O tesouro repousa na cripta de Endorovich (Castelo Ravenloft, Cripta 7).",
+          "after": "Cripta de Endorovich no Castelo Ravenloft (cap. 4, K84, cripta 7)."
+        },
+        {
+          "field": "readings.symbol.prophecy",
+          "before": "Eu vejo o esqueleto de um guerreiro mortal, deitado em uma cama de pedra flanqueado por gárgulas.",
+          "after": "Eu vejo o esqueleto de um guerreiro temível, deitado sobre um leito de pedra ladeado por gárgulas."
+        },
+        {
+          "field": "readings.symbol.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.tome.area",
+          "before": null,
+          "after": "K84/7"
+        },
+        {
+          "field": "readings.tome.location",
+          "before": "O tesouro repousa na cripta de Endorovich (Castelo Ravenloft, Cripta 7).",
+          "after": "Cripta de Endorovich no Castelo Ravenloft (cap. 4, K84, cripta 7)."
+        },
+        {
+          "field": "readings.tome.prophecy",
+          "before": "Eu vejo o esqueleto de um guerreiro mortal, deitado em uma cama de pedra flanqueado por gárgulas.",
+          "after": "Eu vejo o esqueleto de um guerreiro temível, deitado sobre um leito de pedra ladeado por gárgulas."
+        },
+        {
+          "field": "readings.tome.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        }
+      ]
+    },
+    {
+      "id": "coins-2",
+      "name": "Filantropo",
+      "nameEn": "Philanthropist",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "tome": "S23",
+        "symbol": "S23",
+        "sword": "S23"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "Generosidade que esconde intenções obscuras.",
+          "after": "Caridade e generosidade em grande escala; riqueza usada para combater o mal e a doença."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.sword.area",
+          "before": null,
+          "after": "S23"
+        },
+        {
+          "field": "readings.sword.location",
+          "before": "O tesouro está no berçário da Abadia de Santa Markovia na Vila de Krezk.",
+          "after": "Berçário da Abadia de Santa Markovia (cap. 8, S23)."
+        },
+        {
+          "field": "readings.sword.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.symbol.area",
+          "before": null,
+          "after": "S23"
+        },
+        {
+          "field": "readings.symbol.location",
+          "before": "O tesouro está no berçário da Abadia de Santa Markovia na Vila de Krezk.",
+          "after": "Berçário da Abadia de Santa Markovia (cap. 8, S23)."
+        },
+        {
+          "field": "readings.symbol.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.tome.area",
+          "before": null,
+          "after": "S23"
+        },
+        {
+          "field": "readings.tome.location",
+          "before": "O tesouro está no berçário da Abadia de Santa Markovia na Vila de Krezk.",
+          "after": "Berçário da Abadia de Santa Markovia (cap. 8, S23)."
+        },
+        {
+          "field": "readings.tome.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        }
+      ]
+    },
+    {
+      "id": "coins-3",
+      "name": "Comerciante",
+      "nameEn": "Trader",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "tome": "W10",
+        "symbol": "W10",
+        "sword": "W10"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "Cada transação é uma oportunidade — e uma armadilha.",
+          "after": "Comércio, contrabando e mercados clandestinos; trocas justas e equilibradas."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.sword.area",
+          "before": null,
+          "after": "W10"
+        },
+        {
+          "field": "readings.sword.location",
+          "before": "O tesouro repousa na oficina do soprador de vidro na Vinícola Mago dos Vinhos.",
+          "after": "Oficina do soprador de vidro na Vinícola Mago dos Vinhos (cap. 12, W10)."
+        },
+        {
+          "field": "readings.sword.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.symbol.area",
+          "before": null,
+          "after": "W10"
+        },
+        {
+          "field": "readings.symbol.location",
+          "before": "O tesouro repousa na oficina do soprador de vidro na Vinícola Mago dos Vinhos.",
+          "after": "Oficina do soprador de vidro na Vinícola Mago dos Vinhos (cap. 12, W10)."
+        },
+        {
+          "field": "readings.symbol.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.tome.area",
+          "before": null,
+          "after": "W10"
+        },
+        {
+          "field": "readings.tome.location",
+          "before": "O tesouro repousa na oficina do soprador de vidro na Vinícola Mago dos Vinhos.",
+          "after": "Oficina do soprador de vidro na Vinícola Mago dos Vinhos (cap. 12, W10)."
+        },
+        {
+          "field": "readings.tome.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        }
+      ]
+    },
+    {
+      "id": "coins-4",
+      "name": "Mercador",
+      "nameEn": "Merchant",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "tome": "K63",
+        "symbol": "K63",
+        "sword": "K63"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "Comércio é guerra por outros meios.",
+          "after": "Uma mercadoria rara ou oportunidade de negócio; transações enganosas ou perigosas."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.sword.area",
+          "before": null,
+          "after": "K63"
+        },
+        {
+          "field": "readings.sword.location",
+          "before": "O tesouro repousa na adega do Castelo Ravenloft (K63).",
+          "after": "Adega do Castelo Ravenloft (cap. 4, K63)."
+        },
+        {
+          "field": "readings.sword.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.symbol.area",
+          "before": null,
+          "after": "K63"
+        },
+        {
+          "field": "readings.symbol.location",
+          "before": "O tesouro repousa na adega do Castelo Ravenloft (K63).",
+          "after": "Adega do Castelo Ravenloft (cap. 4, K63)."
+        },
+        {
+          "field": "readings.symbol.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.tome.area",
+          "before": null,
+          "after": "K63"
+        },
+        {
+          "field": "readings.tome.location",
+          "before": "O tesouro repousa na adega do Castelo Ravenloft (K63).",
+          "after": "Adega do Castelo Ravenloft (cap. 4, K63)."
+        },
+        {
+          "field": "readings.tome.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        }
+      ]
+    },
+    {
+      "id": "coins-5",
+      "name": "Membro da Guilda",
+      "nameEn": "Guild Member",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "tome": "K84/5",
+        "symbol": "K84/5",
+        "sword": "K84/5"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "Força na organização, segredos nos números.",
+          "after": "Pessoas de ideias semelhantes unidas por um objetivo comum; orgulho no próprio trabalho."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.sword.area",
+          "before": null,
+          "after": "K84/5"
+        },
+        {
+          "field": "readings.sword.location",
+          "before": "O tesouro repousa na cripta de Artank Swilovich (Castelo Ravenloft, Cripta 5).",
+          "after": "Cripta de Artank Swilovich no Castelo Ravenloft (cap. 4, K84, cripta 5)."
+        },
+        {
+          "field": "readings.sword.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.symbol.area",
+          "before": null,
+          "after": "K84/5"
+        },
+        {
+          "field": "readings.symbol.location",
+          "before": "O tesouro repousa na cripta de Artank Swilovich (Castelo Ravenloft, Cripta 5).",
+          "after": "Cripta de Artank Swilovich no Castelo Ravenloft (cap. 4, K84, cripta 5)."
+        },
+        {
+          "field": "readings.symbol.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.tome.area",
+          "before": null,
+          "after": "K84/5"
+        },
+        {
+          "field": "readings.tome.location",
+          "before": "O tesouro repousa na cripta de Artank Swilovich (Castelo Ravenloft, Cripta 5).",
+          "after": "Cripta de Artank Swilovich no Castelo Ravenloft (cap. 4, K84, cripta 5)."
+        },
+        {
+          "field": "readings.tome.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        }
+      ]
+    },
+    {
+      "id": "coins-6",
+      "name": "Mendigo",
+      "nameEn": "Beggar",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "tome": "N9a",
+        "symbol": "N9a",
+        "sword": "N9a"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "Nada resta senão a humildade e a fome.",
+          "after": "Uma mudança repentina na condição econômica ou na fortuna."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.sword.area",
+          "before": null,
+          "after": "N9a"
+        },
+        {
+          "field": "readings.sword.location",
+          "before": "O tesouro está escondido no casebre de Kasimir na Cidade de Vallaki.",
+          "after": "Casebre de Kasimir no acampamento Vistani e dos elfos do crepúsculo, fora de Vallaki (cap. 5, N9a), não dentro da cidade."
+        },
+        {
+          "field": "readings.sword.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.symbol.area",
+          "before": null,
+          "after": "N9a"
+        },
+        {
+          "field": "readings.symbol.location",
+          "before": "O tesouro está escondido no casebre de Kasimir na Cidade de Vallaki.",
+          "after": "Casebre de Kasimir no acampamento Vistani e dos elfos do crepúsculo, fora de Vallaki (cap. 5, N9a), não dentro da cidade."
+        },
+        {
+          "field": "readings.symbol.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.tome.area",
+          "before": null,
+          "after": "N9a"
+        },
+        {
+          "field": "readings.tome.location",
+          "before": "O tesouro está escondido no casebre de Kasimir na Cidade de Vallaki.",
+          "after": "Casebre de Kasimir no acampamento Vistani e dos elfos do crepúsculo, fora de Vallaki (cap. 5, N9a), não dentro da cidade."
+        },
+        {
+          "field": "readings.tome.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        }
+      ]
+    },
+    {
+      "id": "coins-7",
+      "name": "Ladrão",
+      "nameEn": "Thief",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "tome": "F",
+        "symbol": "F",
+        "sword": "F"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "A escuridão é sua aliada; o silêncio, sua arma.",
+          "after": "Roubo e furto; perda de bens, beleza, inocência, amizade ou reputação."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.sword.area",
+          "before": null,
+          "after": "F"
+        },
+        {
+          "field": "readings.sword.location",
+          "before": "O tesouro está enterrado no cemitério da encruzilhada do Rio Ivlis.",
+          "after": "Enterrado no cemitério da Encruzilhada do Rio Ivlis (cap. 2, F)."
+        },
+        {
+          "field": "readings.sword.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.symbol.area",
+          "before": null,
+          "after": "F"
+        },
+        {
+          "field": "readings.symbol.location",
+          "before": "O tesouro está enterrado no cemitério da encruzilhada do Rio Ivlis.",
+          "after": "Enterrado no cemitério da Encruzilhada do Rio Ivlis (cap. 2, F)."
+        },
+        {
+          "field": "readings.symbol.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.tome.area",
+          "before": null,
+          "after": "F"
+        },
+        {
+          "field": "readings.tome.location",
+          "before": "O tesouro está enterrado no cemitério da encruzilhada do Rio Ivlis.",
+          "after": "Enterrado no cemitério da Encruzilhada do Rio Ivlis (cap. 2, F)."
+        },
+        {
+          "field": "readings.tome.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        }
+      ]
+    },
+    {
+      "id": "coins-8",
+      "name": "Coletor de Impostos",
+      "nameEn": "Tax Collector",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "tome": "N9i",
+        "symbol": "N9i",
+        "sword": "N9i"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "A dívida é eterna; o pagamento, inevitável.",
+          "after": "Corrupção; honestidade em um governo ou organização corruptos."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.sword.area",
+          "before": null,
+          "after": "N9i"
+        },
+        {
+          "field": "readings.sword.location",
+          "before": "O tesouro está escondido na carroça de tesouros dos Vistani perto da Cidade de Vallaki. A criança desaparecida é Arabelle.",
+          "after": "Carroça de tesouros dos Vistani, fora de Vallaki (cap. 5, N9i). A criança desaparecida é Arabelle, no Lago Zarovich (cap. 2, L)."
+        },
+        {
+          "field": "readings.sword.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.symbol.area",
+          "before": null,
+          "after": "N9i"
+        },
+        {
+          "field": "readings.symbol.location",
+          "before": "O tesouro está escondido na carroça de tesouros dos Vistani perto da Cidade de Vallaki. A criança desaparecida é Arabelle.",
+          "after": "Carroça de tesouros dos Vistani, fora de Vallaki (cap. 5, N9i). A criança desaparecida é Arabelle, no Lago Zarovich (cap. 2, L)."
+        },
+        {
+          "field": "readings.symbol.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.tome.area",
+          "before": null,
+          "after": "N9i"
+        },
+        {
+          "field": "readings.tome.location",
+          "before": "O tesouro está escondido na carroça de tesouros dos Vistani perto da Cidade de Vallaki. A criança desaparecida é Arabelle.",
+          "after": "Carroça de tesouros dos Vistani, fora de Vallaki (cap. 5, N9i). A criança desaparecida é Arabelle, no Lago Zarovich (cap. 2, L)."
+        },
+        {
+          "field": "readings.tome.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        }
+      ]
+    },
+    {
+      "id": "coins-9",
+      "name": "Avarento",
+      "nameEn": "Miser",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "tome": "K41",
+        "symbol": "K41",
+        "sword": "K41"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "Cada moeda é uma gota de sangue; cada gasto, uma ferida.",
+          "after": "Riqueza acumulada; infelicidade irreversível ou a crença de que o dinheiro não tem sentido."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.sword.area",
+          "before": null,
+          "after": "K41"
+        },
+        {
+          "field": "readings.sword.location",
+          "before": "O tesouro repousa na tesouraria do Castelo Ravenloft (K41).",
+          "after": "Tesouraria do Castelo Ravenloft (cap. 4, K41)."
+        },
+        {
+          "field": "readings.sword.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.symbol.area",
+          "before": null,
+          "after": "K41"
+        },
+        {
+          "field": "readings.symbol.location",
+          "before": "O tesouro repousa na tesouraria do Castelo Ravenloft (K41).",
+          "after": "Tesouraria do Castelo Ravenloft (cap. 4, K41)."
+        },
+        {
+          "field": "readings.symbol.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.tome.area",
+          "before": null,
+          "after": "K41"
+        },
+        {
+          "field": "readings.tome.location",
+          "before": "O tesouro repousa na tesouraria do Castelo Ravenloft (K41).",
+          "after": "Tesouraria do Castelo Ravenloft (cap. 4, K41)."
+        },
+        {
+          "field": "readings.tome.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        }
+      ]
+    },
+    {
+      "id": "coins-10",
+      "name": "Ladino",
+      "nameEn": "Rogue",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "tome": "N2q",
+        "symbol": "N2q",
+        "sword": "N2q"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "O mestre das sombras, cujo toque é mais leve que um sussurro.",
+          "after": "Aqueles para quem o dinheiro importa; a crença de que a riqueza é a chave do sucesso."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.sword.area",
+          "before": null,
+          "after": "N2q"
+        },
+        {
+          "field": "readings.sword.location",
+          "before": "O tesouro está escondido no sótão da Pousada Água Azul na Cidade de Vallaki.",
+          "after": "Sótão da Pousada Água Azul, em Vallaki (cap. 5, N2q)."
+        },
+        {
+          "field": "readings.sword.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.symbol.area",
+          "before": null,
+          "after": "N2q"
+        },
+        {
+          "field": "readings.symbol.location",
+          "before": "O tesouro está escondido no sótão da Pousada Água Azul na Cidade de Vallaki.",
+          "after": "Sótão da Pousada Água Azul, em Vallaki (cap. 5, N2q)."
+        },
+        {
+          "field": "readings.symbol.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.tome.area",
+          "before": null,
+          "after": "N2q"
+        },
+        {
+          "field": "readings.tome.location",
+          "before": "O tesouro está escondido no sótão da Pousada Água Azul na Cidade de Vallaki.",
+          "after": "Sótão da Pousada Água Azul, em Vallaki (cap. 5, N2q)."
+        },
+        {
+          "field": "readings.tome.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        }
+      ]
+    },
+    {
+      "id": "glyphs-1",
+      "name": "Monge",
+      "nameEn": "Monk",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "tome": "S13",
+        "symbol": "S13",
+        "sword": "S13"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "Silêncio, disciplina e um punho que destrói sem espada.",
+          "after": "Serenidade, força interior e autoconfiança; segurança plena sem arrogância."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.sword.area",
+          "before": null,
+          "after": "S13"
+        },
+        {
+          "field": "readings.sword.location",
+          "before": "O tesouro repousa no salão principal da Abadia de Santa Markovia na Vila de Krezk.",
+          "after": "Salão principal da Abadia de Santa Markovia (cap. 8, S13)."
+        },
+        {
+          "field": "readings.sword.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.symbol.area",
+          "before": null,
+          "after": "S13"
+        },
+        {
+          "field": "readings.symbol.location",
+          "before": "O tesouro repousa no salão principal da Abadia de Santa Markovia na Vila de Krezk.",
+          "after": "Salão principal da Abadia de Santa Markovia (cap. 8, S13)."
+        },
+        {
+          "field": "readings.symbol.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.tome.area",
+          "before": null,
+          "after": "S13"
+        },
+        {
+          "field": "readings.tome.location",
+          "before": "O tesouro repousa no salão principal da Abadia de Santa Markovia na Vila de Krezk.",
+          "after": "Salão principal da Abadia de Santa Markovia (cap. 8, S13)."
+        },
+        {
+          "field": "readings.tome.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        }
+      ]
+    },
+    {
+      "id": "glyphs-2",
+      "name": "Missionário",
+      "nameEn": "Missionary",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "tome": "S9",
+        "symbol": "S9",
+        "sword": "S9"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "Leva a palavra dos deuses a terras que esqueceram a luz.",
+          "after": "Aqueles que espalham sabedoria e fé; um aviso sobre a propagação do medo e da ignorância."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.sword.area",
+          "before": null,
+          "after": "S9"
+        },
+        {
+          "field": "readings.sword.location",
+          "before": "O tesouro está escondido dentro de um dos espantalhos no jardim da Abadia de Santa Markovia na Vila de Krezk.",
+          "after": "Dentro de um dos espantalhos do jardim da Abadia de Santa Markovia (cap. 8, S9)."
+        },
+        {
+          "field": "readings.sword.prophecy",
+          "before": "Eu vejo um jardim coberto de neve, vigiado por um espantalho com um sorriso de saco. Não olhe para o jardim, mas para o guardião.",
+          "after": "Eu vejo um jardim coberto de neve, vigiado por um espantalho com um sorriso de aniagem. Não olhem para o jardim, mas para o guardião."
+        },
+        {
+          "field": "readings.sword.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.symbol.area",
+          "before": null,
+          "after": "S9"
+        },
+        {
+          "field": "readings.symbol.location",
+          "before": "O tesouro está escondido dentro de um dos espantalhos no jardim da Abadia de Santa Markovia na Vila de Krezk.",
+          "after": "Dentro de um dos espantalhos do jardim da Abadia de Santa Markovia (cap. 8, S9)."
+        },
+        {
+          "field": "readings.symbol.prophecy",
+          "before": "Eu vejo um jardim coberto de neve, vigiado por um espantalho com um sorriso de saco. Não olhe para o jardim, mas para o guardião.",
+          "after": "Eu vejo um jardim coberto de neve, vigiado por um espantalho com um sorriso de aniagem. Não olhem para o jardim, mas para o guardião."
+        },
+        {
+          "field": "readings.symbol.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.tome.area",
+          "before": null,
+          "after": "S9"
+        },
+        {
+          "field": "readings.tome.location",
+          "before": "O tesouro está escondido dentro de um dos espantalhos no jardim da Abadia de Santa Markovia na Vila de Krezk.",
+          "after": "Dentro de um dos espantalhos do jardim da Abadia de Santa Markovia (cap. 8, S9)."
+        },
+        {
+          "field": "readings.tome.prophecy",
+          "before": "Eu vejo um jardim coberto de neve, vigiado por um espantalho com um sorriso de saco. Não olhe para o jardim, mas para o guardião.",
+          "after": "Eu vejo um jardim coberto de neve, vigiado por um espantalho com um sorriso de aniagem. Não olhem para o jardim, mas para o guardião."
+        },
+        {
+          "field": "readings.tome.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        }
+      ]
+    },
+    {
+      "id": "glyphs-3",
+      "name": "Curandeiro",
+      "nameEn": "Healer",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "tome": "S4",
+        "symbol": "S4",
+        "sword": "S4"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "Mãos que curam, mas que também conhecem a dor.",
+          "after": "Cura; doença ou maldição contagiosa; aqueles que praticam as artes de curar."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.sword.area",
+          "before": null,
+          "after": "S4"
+        },
+        {
+          "field": "readings.sword.location",
+          "before": "O tesouro repousa sob o gazebo no Santuário do Sol Branco na Vila de Krezk.",
+          "after": "Sob o gazebo do Santuário do Sol Branco, junto ao espelho d’água de Krezk (cap. 8, S4)."
+        },
+        {
+          "field": "readings.sword.prophecy",
+          "before": "Olhe para o oeste. Encontre um lago abençoado pela luz do sol branco.",
+          "after": "Olhem para o oeste. Encontrem um espelho d’água abençoado pela luz do sol branco."
+        },
+        {
+          "field": "readings.sword.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.symbol.area",
+          "before": null,
+          "after": "S4"
+        },
+        {
+          "field": "readings.symbol.location",
+          "before": "O tesouro repousa sob o gazebo no Santuário do Sol Branco na Vila de Krezk.",
+          "after": "Sob o gazebo do Santuário do Sol Branco, junto ao espelho d’água de Krezk (cap. 8, S4)."
+        },
+        {
+          "field": "readings.symbol.prophecy",
+          "before": "Olhe para o oeste. Encontre um lago abençoado pela luz do sol branco.",
+          "after": "Olhem para o oeste. Encontrem um espelho d’água abençoado pela luz do sol branco."
+        },
+        {
+          "field": "readings.symbol.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.tome.area",
+          "before": null,
+          "after": "S4"
+        },
+        {
+          "field": "readings.tome.location",
+          "before": "O tesouro repousa sob o gazebo no Santuário do Sol Branco na Vila de Krezk.",
+          "after": "Sob o gazebo do Santuário do Sol Branco, junto ao espelho d’água de Krezk (cap. 8, S4)."
+        },
+        {
+          "field": "readings.tome.prophecy",
+          "before": "Olhe para o oeste. Encontre um lago abençoado pela luz do sol branco.",
+          "after": "Olhem para o oeste. Encontrem um espelho d’água abençoado pela luz do sol branco."
+        },
+        {
+          "field": "readings.tome.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        }
+      ]
+    },
+    {
+      "id": "glyphs-4",
+      "name": "Pastor",
+      "nameEn": "Shepherd",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "tome": "K88",
+        "symbol": "K88",
+        "sword": "K88"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "Guia do rebanho através de vales escuros.",
+          "after": "Aqueles que protegem os outros; alguém que carrega um fardo grande demais para suportar sozinho."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.sword.area",
+          "before": null,
+          "after": "K88"
+        },
+        {
+          "field": "readings.sword.location",
+          "before": "O tesouro repousa na tumba do Rei Barov e da Rainha Ravenovia (Castelo Ravenloft, K88).",
+          "after": "Tumba do Rei Barov e da Rainha Ravenovia, no Castelo Ravenloft (cap. 4, K88)."
+        },
+        {
+          "field": "readings.sword.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.symbol.area",
+          "before": null,
+          "after": "K88"
+        },
+        {
+          "field": "readings.symbol.location",
+          "before": "O tesouro repousa na tumba do Rei Barov e da Rainha Ravenovia (Castelo Ravenloft, K88).",
+          "after": "Tumba do Rei Barov e da Rainha Ravenovia, no Castelo Ravenloft (cap. 4, K88)."
+        },
+        {
+          "field": "readings.symbol.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.tome.area",
+          "before": null,
+          "after": "K88"
+        },
+        {
+          "field": "readings.tome.location",
+          "before": "O tesouro repousa na tumba do Rei Barov e da Rainha Ravenovia (Castelo Ravenloft, K88).",
+          "after": "Tumba do Rei Barov e da Rainha Ravenovia, no Castelo Ravenloft (cap. 4, K88)."
+        },
+        {
+          "field": "readings.tome.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        }
+      ]
+    },
+    {
+      "id": "glyphs-5",
+      "name": "Druida",
+      "nameEn": "Druid",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "tome": "Y4",
+        "symbol": "Y4",
+        "sword": "Y4"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "As árvores e os animais são seus irmãos; a terra, sua mãe.",
+          "after": "A ambivalência e a crueldade da natureza e daqueles que se sentem atraídos por ela; conflito interior."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.sword.area",
+          "before": null,
+          "after": "Y4"
+        },
+        {
+          "field": "readings.sword.location",
+          "before": "O tesouro repousa na base da Árvore Gulthias na Colina de Yester.",
+          "after": "Base da árvore Gulthias, na Colina de Yester (cap. 14, Y4). Homens-corvo encontrados na natureza podem guiar o grupo até lá."
+        },
+        {
+          "field": "readings.sword.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.symbol.area",
+          "before": null,
+          "after": "Y4"
+        },
+        {
+          "field": "readings.symbol.location",
+          "before": "O tesouro repousa na base da Árvore Gulthias na Colina de Yester.",
+          "after": "Base da árvore Gulthias, na Colina de Yester (cap. 14, Y4). Homens-corvo encontrados na natureza podem guiar o grupo até lá."
+        },
+        {
+          "field": "readings.symbol.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.tome.area",
+          "before": null,
+          "after": "Y4"
+        },
+        {
+          "field": "readings.tome.location",
+          "before": "O tesouro repousa na base da Árvore Gulthias na Colina de Yester.",
+          "after": "Base da árvore Gulthias, na Colina de Yester (cap. 14, Y4). Homens-corvo encontrados na natureza podem guiar o grupo até lá."
+        },
+        {
+          "field": "readings.tome.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        }
+      ]
+    },
+    {
+      "id": "glyphs-6",
+      "name": "Anarquista",
+      "nameEn": "Anarchist",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "tome": "K67",
+        "symbol": "K67",
+        "sword": "K67"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "Não há lei, não há ordem — apenas a liberdade do caos.",
+          "after": "Uma mudança fundamental provocada por alguém cujas crenças estão sendo postas à prova."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.sword.area",
+          "before": null,
+          "after": "K67"
+        },
+        {
+          "field": "readings.sword.location",
+          "before": "O tesouro repousa no salão dos ossos do Castelo Ravenloft (K67).",
+          "after": "Salão dos Ossos do Castelo Ravenloft (cap. 4, K67)."
+        },
+        {
+          "field": "readings.sword.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.symbol.area",
+          "before": null,
+          "after": "K67"
+        },
+        {
+          "field": "readings.symbol.location",
+          "before": "O tesouro repousa no salão dos ossos do Castelo Ravenloft (K67).",
+          "after": "Salão dos Ossos do Castelo Ravenloft (cap. 4, K67)."
+        },
+        {
+          "field": "readings.symbol.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.tome.area",
+          "before": null,
+          "after": "K67"
+        },
+        {
+          "field": "readings.tome.location",
+          "before": "O tesouro repousa no salão dos ossos do Castelo Ravenloft (K67).",
+          "after": "Salão dos Ossos do Castelo Ravenloft (cap. 4, K67)."
+        },
+        {
+          "field": "readings.tome.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        }
+      ]
+    },
+    {
+      "id": "glyphs-7",
+      "name": "Charlatão",
+      "nameEn": "Charlatan",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "tome": "O4",
+        "symbol": "O4",
+        "sword": "O4"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "Palavras doces e promessas vazias — a arte da fraude divina.",
+          "after": "Mentirosos; aqueles que professam uma crença, mas na verdade seguem outra."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.sword.area",
+          "before": null,
+          "after": "O4"
+        },
+        {
+          "field": "readings.sword.location",
+          "before": "O tesouro repousa no sótão do Velho Moinho de Ossos.",
+          "after": "Sótão do Velho Moinho de Ossos (cap. 6, O4)."
+        },
+        {
+          "field": "readings.sword.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.symbol.area",
+          "before": null,
+          "after": "O4"
+        },
+        {
+          "field": "readings.symbol.location",
+          "before": "O tesouro repousa no sótão do Velho Moinho de Ossos.",
+          "after": "Sótão do Velho Moinho de Ossos (cap. 6, O4)."
+        },
+        {
+          "field": "readings.symbol.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.tome.area",
+          "before": null,
+          "after": "O4"
+        },
+        {
+          "field": "readings.tome.location",
+          "before": "O tesouro repousa no sótão do Velho Moinho de Ossos.",
+          "after": "Sótão do Velho Moinho de Ossos (cap. 6, O4)."
+        },
+        {
+          "field": "readings.tome.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        }
+      ]
+    },
+    {
+      "id": "glyphs-8",
+      "name": "Bispo",
+      "nameEn": "Bishop",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "tome": "X40",
+        "symbol": "X40",
+        "sword": "X40"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "Autoridade espiritual que carrega o peso de mil almas.",
+          "after": "Adesão rigorosa a um código ou crença; aqueles que tramam, planejam e conspiram."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.sword.area",
+          "before": null,
+          "after": "X40"
+        },
+        {
+          "field": "readings.sword.location",
+          "before": "O tesouro repousa na tesouraria selada do Templo de Âmbar.",
+          "after": "Tesouraria selada do Templo de Âmbar (cap. 13, X40). Esta é a leitura oficial; a Lâmina Solar no Reloaded usa outra pista e X42."
+        },
+        {
+          "field": "readings.sword.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.symbol.area",
+          "before": null,
+          "after": "X40"
+        },
+        {
+          "field": "readings.symbol.location",
+          "before": "O tesouro repousa na tesouraria selada do Templo de Âmbar.",
+          "after": "Tesouraria selada do Templo de Âmbar (cap. 13, X40). Esta é a leitura oficial; a Lâmina Solar no Reloaded usa outra pista e X42."
+        },
+        {
+          "field": "readings.symbol.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.tome.area",
+          "before": null,
+          "after": "X40"
+        },
+        {
+          "field": "readings.tome.location",
+          "before": "O tesouro repousa na tesouraria selada do Templo de Âmbar.",
+          "after": "Tesouraria selada do Templo de Âmbar (cap. 13, X40). Esta é a leitura oficial; a Lâmina Solar no Reloaded usa outra pista e X42."
+        },
+        {
+          "field": "readings.tome.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        }
+      ]
+    },
+    {
+      "id": "glyphs-9",
+      "name": "Traidor",
+      "nameEn": "Traitor",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "tome": "N4o",
+        "symbol": "N4o",
+        "sword": "N4o"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "A confiança é a arma mais afiada — e a mais traiçoeira.",
+          "after": "Traição por alguém próximo e confiável; enfraquecimento ou perda da fé."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.sword.area",
+          "before": null,
+          "after": "N4o"
+        },
+        {
+          "field": "readings.sword.location",
+          "before": "O tesouro está escondido no quarto principal da Mansão Wachter na Cidade de Vallaki.",
+          "after": "Quarto principal de Wachterhaus, em Vallaki (cap. 5, N4o). Esta é a leitura oficial; o Tomo no Reloaded está com Leo Dilisnya."
+        },
+        {
+          "field": "readings.sword.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.symbol.area",
+          "before": null,
+          "after": "N4o"
+        },
+        {
+          "field": "readings.symbol.location",
+          "before": "O tesouro está escondido no quarto principal da Mansão Wachter na Cidade de Vallaki.",
+          "after": "Quarto principal de Wachterhaus, em Vallaki (cap. 5, N4o). Esta é a leitura oficial; o Tomo no Reloaded está com Leo Dilisnya."
+        },
+        {
+          "field": "readings.symbol.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.tome.area",
+          "before": null,
+          "after": "N4o"
+        },
+        {
+          "field": "readings.tome.location",
+          "before": "O tesouro está escondido no quarto principal da Mansão Wachter na Cidade de Vallaki.",
+          "after": "Quarto principal de Wachterhaus, em Vallaki (cap. 5, N4o). Esta é a leitura oficial; o Tomo no Reloaded está com Leo Dilisnya."
+        },
+        {
+          "field": "readings.tome.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        }
+      ]
+    },
+    {
+      "id": "glyphs-10",
+      "name": "Sacerdote",
+      "nameEn": "Priest",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "tome": "K15",
+        "symbol": "K15",
+        "sword": "K15"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "O mestre dos glifos sagrados, canal entre mortais e deuses.",
+          "after": "Iluminação; devoção a uma divindade, a valores ou a um propósito superior."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.sword.area",
+          "before": null,
+          "after": "K15"
+        },
+        {
+          "field": "readings.sword.location",
+          "before": "O tesouro repousa na capela do Castelo Ravenloft (K15).",
+          "after": "Capela do Castelo Ravenloft (cap. 4, K15)."
+        },
+        {
+          "field": "readings.sword.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.symbol.area",
+          "before": null,
+          "after": "K15"
+        },
+        {
+          "field": "readings.symbol.location",
+          "before": "O tesouro repousa na capela do Castelo Ravenloft (K15).",
+          "after": "Capela do Castelo Ravenloft (cap. 4, K15)."
+        },
+        {
+          "field": "readings.symbol.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        },
+        {
+          "field": "readings.tome.area",
+          "before": null,
+          "after": "K15"
+        },
+        {
+          "field": "readings.tome.location",
+          "before": "O tesouro repousa na capela do Castelo Ravenloft (K15).",
+          "after": "Capela do Castelo Ravenloft (cap. 4, K15)."
+        },
+        {
+          "field": "readings.tome.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Treasure Locations, pp. 12–15"
+        }
+      ]
+    },
+    {
+      "id": "high-1",
+      "name": "Artefato",
+      "nameEn": "Artifact",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "ally": "N2",
+        "location": "K15"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "Uma criação lendária cujo poder transcende eras e destinos.",
+          "after": "Um objeto que precisa ser obtido, protegido ou destruído a qualquer custo."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.ally.area",
+          "before": null,
+          "after": "N2"
+        },
+        {
+          "field": "readings.ally.description",
+          "before": "O lendário caçador de monstros disfarçado na Pousada Água Azul.",
+          "after": "Rictavio é Rudolph van Richten disfarçado, na Pousada Água Azul (N2). Ao ouvir a leitura, revela sua identidade e aceita acompanhar o grupo. Blinsky e seu macaco são uma pista falsa; Blinsky indica Rictavio."
+        },
+        {
+          "field": "readings.ally.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Strahd’s Enemy, pp. 15–17"
+        },
+        {
+          "field": "readings.location.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Strahd’s Location in the Castle, pp. 17–18"
+        }
+      ]
+    },
+    {
+      "id": "high-2",
+      "name": "Besta",
+      "nameEn": "Beast",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "ally": "Z7",
+        "location": "K25"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "O instinto primitivo que habita cada criatura — fome sem fim.",
+          "after": "Grande fúria ou paixão; algo bestial ou maligno escondido à vista de todos ou logo abaixo da superfície."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.ally.area",
+          "before": null,
+          "after": "Z7"
+        },
+        {
+          "field": "readings.ally.description",
+          "before": "Uma lobisomem no Covil dos Lobisomens.",
+          "after": "Zuleika Toranescu está no santuário da Mãe Noite (Z7). Acompanha o grupo se prometerem vingar seu companheiro Emil, matando Kiril Stoyanovich."
+        },
+        {
+          "field": "readings.ally.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Strahd’s Enemy, pp. 15–17"
+        },
+        {
+          "field": "readings.location.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Strahd’s Location in the Castle, pp. 17–18"
+        }
+      ]
+    },
+    {
+      "id": "high-3",
+      "name": "O Despedaçado",
+      "nameEn": "Broken One",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "ally": "M",
+        "location": "K85"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "Um ser que foi destruído por dentro e remontado errado.",
+          "after": "Derrota, fracasso e desespero; a perda de algo ou alguém sem o qual a pessoa se sente incompleta."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.ally.area",
+          "before": null,
+          "after": "M"
+        },
+        {
+          "field": "readings.ally.areaAlt",
+          "before": null,
+          "after": "E5"
+        },
+        {
+          "field": "readings.ally.description",
+          "before": "O Mago Louco.",
+          "after": "O Mago Louco do Monte Baratok (área M). É preciso lidar com a loucura e a desconfiança dele conforme a seção do encontro; a carta não o apresenta como aliado já recuperado."
+        },
+        {
+          "field": "readings.ally.descriptionAlt",
+          "before": "O padre da Vila de Barovia.",
+          "after": "Donavich é o sacerdote da vila de Barovia (E5). Só acompanha o grupo depois que Doru estiver morto e enterrado."
+        },
+        {
+          "field": "readings.ally.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Strahd’s Enemy, pp. 15–17"
+        },
+        {
+          "field": "readings.location.prophecy",
+          "before": "Ele assombra a tumba dos homens que invejava acima de tudo.",
+          "after": "Ele assombra a tumba do homem que invejava acima de todos."
+        },
+        {
+          "field": "readings.location.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Strahd’s Location in the Castle, pp. 17–18"
+        }
+      ]
+    },
+    {
+      "id": "high-4",
+      "name": "Lorde das Trevas",
+      "nameEn": "Darklord",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "ally": "Nenhuma",
+        "location": "K86"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "A arrogância que devorou um nobre e gerou um monstro imortal.",
+          "after": "Uma pessoa poderosa e maligna, cujos objetivos têm consequências vastas e duradouras."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.ally.area",
+          "before": null,
+          "after": "Nenhuma"
+        },
+        {
+          "field": "readings.ally.description",
+          "before": "Os heróis não terão aliado destinado.",
+          "after": "Não há aliado destinado que receba a ação Inspirar por esta leitura. Isso não impede outras alianças normais durante a campanha."
+        },
+        {
+          "field": "readings.ally.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Strahd’s Enemy, pp. 15–17"
+        },
+        {
+          "field": "readings.location.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Strahd’s Location in the Castle, pp. 17–18"
+        }
+      ]
+    },
+    {
+      "id": "high-5",
+      "name": "Masmorra",
+      "nameEn": "Donjon",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "ally": "N3t",
+        "location": "K67"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "Paredes que se fecham, correntes que prendem, esperança que morre.",
+          "after": "Isolamento e aprisionamento; alguém tão preso às próprias ideias que se torna prisioneiro de suas crenças."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.ally.area",
+          "before": null,
+          "after": "N3t"
+        },
+        {
+          "field": "readings.ally.areaAlt",
+          "before": null,
+          "after": "N4n"
+        },
+        {
+          "field": "readings.ally.description",
+          "before": "O filho do burgomestre da Cidade de Vallaki.",
+          "after": "Victor Vallakovich está em sua oficina no sótão (N3t). Ao perceber que o grupo pode libertá-lo de sua situação, deixa a casa e acompanha os personagens a Ravenloft."
+        },
+        {
+          "field": "readings.ally.descriptionAlt",
+          "before": "A filha aprisionada de Lady Wachter.",
+          "after": "Stella Wachter está em N4n. Não concede benefício enquanto sua loucura não for curada; recuperada, aceita deixar a família e acompanhar o grupo."
+        },
+        {
+          "field": "readings.ally.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Strahd’s Enemy, pp. 15–17"
+        },
+        {
+          "field": "readings.location.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Strahd’s Location in the Castle, pp. 17–18"
+        }
+      ]
+    },
+    {
+      "id": "high-6",
+      "name": "Vidente",
+      "nameEn": "Seer",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "ally": "N9a",
+        "location": "K37"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "Olhos que penetram o véu do tempo e veem verdades insuportáveis.",
+          "after": "Inspiração e intelecto aguçado; um acontecimento futuro cujo desfecho dependerá de uma mente perspicaz."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.ally.area",
+          "before": null,
+          "after": "N9a"
+        },
+        {
+          "field": "readings.ally.description",
+          "before": "O elfo crepuscular no acampamento Vistani.",
+          "after": "Kasimir Velikov vive no acampamento dos elfos do crepúsculo (N9a). Só acompanha o grupo a Ravenloft depois que o levam ao Templo de Âmbar e o ajudam a obter os meios para ressuscitar Patrina Velikovna."
+        },
+        {
+          "field": "readings.ally.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Strahd’s Enemy, pp. 15–17"
+        },
+        {
+          "field": "readings.location.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Strahd’s Location in the Castle, pp. 17–18"
+        }
+      ]
+    },
+    {
+      "id": "high-7",
+      "name": "Fantasma",
+      "nameEn": "Ghost",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "ally": "Q37",
+        "location": "K88"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "Ecos do passado que recusam o esquecimento.",
+          "after": "O passado que se aproxima; o retorno de um antigo inimigo ou a descoberta de um segredo há muito enterrado."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.ally.area",
+          "before": null,
+          "after": "Q37"
+        },
+        {
+          "field": "readings.ally.areaAlt",
+          "before": null,
+          "after": "K84/33"
+        },
+        {
+          "field": "readings.ally.description",
+          "before": "O cavaleiro espectral de Argynvostholt.",
+          "after": "Sir Godfrey Gwilym é um revenant, não um fantasma, em Argynvostholt (Q37). Aceita acompanhar o grupo se o convencerem de que sua ajuda pode restaurar a honra da Ordem do Dragão de Prata: Carisma (Persuasão) CD 15."
+        },
+        {
+          "field": "readings.ally.descriptionAlt",
+          "before": "O guerreiro fantasma no Castelo Ravenloft (Cripta 33).",
+          "after": "Sir Klutz, guerreiro fantasma da cripta 33 (K84). Como aliado destinado, permanece até que ele ou Strahd chegue a 0 PV, em vez de desaparecer após sete dias."
+        },
+        {
+          "field": "readings.ally.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Strahd’s Enemy, pp. 15–17"
+        },
+        {
+          "field": "readings.location.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Strahd’s Location in the Castle, pp. 17–18"
+        }
+      ]
+    },
+    {
+      "id": "high-8",
+      "name": "Executor",
+      "nameEn": "Executioner",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "ally": "E2",
+        "location": "K6"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "A lâmina da justiça cega — sem misericórdia, sem apelação.",
+          "after": "A morte iminente de alguém condenado, com ou sem justiça; falsas acusações e perseguição injusta."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.ally.area",
+          "before": null,
+          "after": "E2"
+        },
+        {
+          "field": "readings.ally.description",
+          "before": "O jovem burgomestre da Vila de Barovia.",
+          "after": "Ismark Kolyanovich está na vila de Barovia (E2). Não acompanha os personagens a Ravenloft até saber que Ireena Kolyana está em segurança."
+        },
+        {
+          "field": "readings.ally.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Strahd’s Enemy, pp. 15–17"
+        },
+        {
+          "field": "readings.location.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Strahd’s Location in the Castle, pp. 17–18"
+        }
+      ]
+    },
+    {
+      "id": "high-9",
+      "name": "Cavaleiro",
+      "nameEn": "Horseman",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "ally": "N4o",
+        "location": "K86"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "A Morte montada num corcel negro — o apocalipse pessoal.",
+          "after": "Morte e desastre; perda de riqueza ou propriedade, uma derrota terrível ou o fim de uma linhagem."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.ally.area",
+          "before": null,
+          "after": "N4o"
+        },
+        {
+          "field": "readings.ally.areaAlt",
+          "before": null,
+          "after": "N9c"
+        },
+        {
+          "field": "readings.ally.description",
+          "before": "O marido falecido de Lady Wachter.",
+          "after": "Nikolai Wachter, o ancião, está morto em N4o. Reviver os mortos ou ressurreição restaura-o; após se recuperar, aceita ajudar apesar da oposição da esposa. Se necessário, Rictavio pode deixar um pergaminho de reviver os mortos para o grupo."
+        },
+        {
+          "field": "readings.ally.descriptionAlt",
+          "before": "O assassino Vistani.",
+          "after": "Arrigal, assassino Vistani em N9c, acompanha o grupo se informado da leitura. Após a derrota de Strahd, trai e ataca os personagens, acreditando que deve ser o novo senhor de Barovia."
+        },
+        {
+          "field": "readings.ally.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Strahd’s Enemy, pp. 15–17"
+        },
+        {
+          "field": "readings.location.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Strahd’s Location in the Castle, pp. 17–18"
+        }
+      ]
+    },
+    {
+      "id": "high-10",
+      "name": "Inocente",
+      "nameEn": "Innocent",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "ally": "E1",
+        "location": "K85"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "Pureza frágil que o mal cobiça desesperadamente corromper.",
+          "after": "Alguém de grande importância cuja vida corre perigo, talvez indefeso ou inconsciente da ameaça."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.ally.area",
+          "before": null,
+          "after": "E1"
+        },
+        {
+          "field": "readings.ally.areaAlt",
+          "before": null,
+          "after": "E4"
+        },
+        {
+          "field": "readings.ally.description",
+          "before": "O ajudante da loja na Vila de Barovia.",
+          "after": "Parriwimple trabalha para Bildrath (E1). Precisa de uma boa razão para ir a Ravenloft, e o grupo deve lidar com a oposição de Bildrath."
+        },
+        {
+          "field": "readings.ally.descriptionAlt",
+          "before": "O interesse amoroso de Strahd, na Vila de Barovia.",
+          "after": "Ireena Kolyana está em E4. Insiste em seguir a leitura apesar da oposição de Ismark, mas não parte antes do sepultamento de Kolyan Indirovich."
+        },
+        {
+          "field": "readings.ally.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Strahd’s Enemy, pp. 15–17"
+        },
+        {
+          "field": "readings.location.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Strahd’s Location in the Castle, pp. 17–18"
+        }
+      ]
+    },
+    {
+      "id": "high-11",
+      "name": "Marionete",
+      "nameEn": "Marionette",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "ally": "K59",
+        "location": "K60"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "Fios invisíveis que controlam cada gesto, cada palavra, cada pensamento.",
+          "after": "Um espião ou servo de um poder maior; um encontro com um fantoche ou subordinado."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.ally.area",
+          "before": null,
+          "after": "K59"
+        },
+        {
+          "field": "readings.ally.areaAlt",
+          "before": null,
+          "after": "S17"
+        },
+        {
+          "field": "readings.ally.description",
+          "before": "O construto no Castelo Ravenloft.",
+          "after": "Pidlwick II é o construto do Castelo Ravenloft (K59; apêndice D). Não se deve confundi-lo com o Pidlwick humano morto."
+        },
+        {
+          "field": "readings.ally.descriptionAlt",
+          "before": "O mongrelfolk na Abadia de Santa Markovia.",
+          "after": "Clovin Belview é o mestiço de duas cabeças da abadia (S17). Só aceita partir depois da morte do Abade e se subornado com vinho; não concede benefício sem sua viola."
+        },
+        {
+          "field": "readings.ally.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Strahd’s Enemy, pp. 15–17"
+        },
+        {
+          "field": "readings.location.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Strahd’s Location in the Castle, pp. 17–18"
+        }
+      ]
+    },
+    {
+      "id": "high-12",
+      "name": "Brumas",
+      "nameEn": "Mists",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "ally": "S19",
+        "location": "Variável"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "O véu que separa Barovia do resto da realidade — a prisão do destino.",
+          "after": "Algo inesperado ou misterioso que não pode ser evitado; uma grande busca ou jornada que provará o espírito."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.ally.area",
+          "before": null,
+          "after": "S19"
+        },
+        {
+          "field": "readings.ally.description",
+          "before": "A caçadora de monstros Vistani.",
+          "after": "Ezmerelda d’Avenir pode ser encontrada na Abadia de Santa Markovia (S19), além de outros locais indicados na aventura. Consulte o apêndice D."
+        },
+        {
+          "field": "readings.ally.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Strahd’s Enemy, pp. 15–17"
+        },
+        {
+          "field": "readings.location.place",
+          "before": "Onde o mestre decidir.",
+          "after": "Qualquer lugar dentro do Castelo Ravenloft, à escolha do mestre. Alternativamente, Eva pede que voltem após pelo menos três dias para uma nova leitura apenas da quinta carta."
+        },
+        {
+          "field": "readings.location.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Strahd’s Location in the Castle, pp. 17–18"
+        }
+      ]
+    },
+    {
+      "id": "high-13",
+      "name": "Corvo",
+      "nameEn": "Raven",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "ally": "W/N2",
+        "location": "K88"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "Esperança sombria que voa entre as copas das árvores da morte.",
+          "after": "Uma fonte oculta de informação; uma virada favorável dos acontecimentos; um potencial secreto para o bem."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.ally.area",
+          "before": null,
+          "after": "W/N2"
+        },
+        {
+          "field": "readings.ally.description",
+          "before": "O líder dos corvos na Vinícola Mago dos Vinhos.",
+          "after": "Davian Martikov é um homem-corvo da Vinícola Mago dos Vinhos (W). Deixa a vinícola com Adrian e Elvir, mas exige reconciliar-se com Urwin (Pousada Água Azul, N2) antes de seguir para Ravenloft."
+        },
+        {
+          "field": "readings.ally.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Strahd’s Enemy, pp. 15–17"
+        },
+        {
+          "field": "readings.location.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Strahd’s Location in the Castle, pp. 17–18"
+        }
+      ]
+    },
+    {
+      "id": "high-14",
+      "name": "Tentador",
+      "nameEn": "Tempter",
+      "imageVerified": true,
+      "meaningSource": "Curse of Strahd, apêndice E, pp. 243–244",
+      "officialAreas": {
+        "ally": "L",
+        "location": "K41"
+      },
+      "changes": [
+        {
+          "field": "flavor",
+          "before": "Promessas doces que conduzem a alma ao abismo.",
+          "after": "Alguém comprometido ou desviado pela tentação ou insensatez; aquele que tenta os outros para fins malignos."
+        },
+        {
+          "field": "meaningSource",
+          "before": null,
+          "after": "Curse of Strahd, apêndice E, pp. 243–244"
+        },
+        {
+          "field": "readings.ally.area",
+          "before": null,
+          "after": "L"
+        },
+        {
+          "field": "readings.ally.areaAlt",
+          "before": null,
+          "after": "S13"
+        },
+        {
+          "field": "readings.ally.description",
+          "before": "A garotinha Vistani no Lago Zarovich.",
+          "after": "Arabelle está no Lago Zarovich (L). Aceita juntar-se ao grupo, mas, se retornar ao acampamento, Luvash recusa-se a deixá-la partir."
+        },
+        {
+          "field": "readings.ally.descriptionAlt",
+          "before": "O golem de carne na Abadia de Santa Markovia.",
+          "after": "Vasilka é o golem de carne da Abadia de Santa Markovia (S13). Consulte o encontro com o Abade para conduzir sua participação."
+        },
+        {
+          "field": "readings.ally.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Strahd’s Enemy, pp. 15–17"
+        },
+        {
+          "field": "readings.location.place",
+          "before": "A Tesouraria (Castelo Ravenloft, K41).",
+          "after": "Tesouraria do Castelo Ravenloft (K41). A mulher da pista é o retrato de Tatyana no escritório (K37), atrás do qual há uma passagem secreta para a tesouraria."
+        },
+        {
+          "field": "readings.location.reference",
+          "before": null,
+          "after": "Curse of Strahd, cap. 1, Strahd’s Location in the Castle, pp. 17–18"
+        }
+      ]
+    }
+  ],
+  "officialSourceSHA256": "cac7c36fe836d9cc010d3f4ea6294db942229dba011d18ec854ea9a73ec9456c",
+  "reloaded": {
+    "section": "Arco C, C4f; Arco H, H8-H9; Arco S, S6c",
+    "cards": [
+      "glyphs-9",
+      "swords-5",
+      "glyphs-8",
+      "high-12",
+      "high-11"
+    ],
+    "reviewedAt": "2026-10-20",
+    "source": "https://github.com/DragnaCarta/Curse-of-Strahd-Reloaded"
+  }
+}

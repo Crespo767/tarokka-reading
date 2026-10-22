@@ -1,0 +1,16 @@
+<div class="tarokka-3d-app">
+  <canvas class="tarokka-canvas" aria-label="Mesa tridimensional de leitura Tarokka"></canvas>
+  <div class="tarokka-vignette" aria-hidden="true"></div>
+  <div class="tarokka-dice" role="status" aria-live="polite" hidden><strong class="tarokka-dice-value"></strong></div>
+  <div class="tarokka-loading" role="status"><span>Preparando a tenda…</span><progress max="1" value="0" aria-label="Carregamento do cenário"></progress></div>
+  <aside class="tarokka-inspect-panel" aria-live="polite" hidden>
+    <button class="close-inspection" aria-label="Fechar profecia">×</button>
+    <div class="inspect-card-name"></div><blockquote class="inspect-prophecy"></blockquote>
+    <div class="inspect-gm-info" data-gm><span class="gm-tag">SEGREDO DO MESTRE</span><div class="inspect-gm-text"></div></div>
+  </aside>
+  <footer class="tarokka-3d-footer" data-player>
+    <div class="tarokka-main-control"><button type="button" class="tarokka-btn rune-primary" data-action="draw-next"><span class="tarokka-draw-icon" aria-hidden="true"></span><span class="tarokka-draw-label">Tirar uma carta</span></button><span class="tarokka-complete" role="status" hidden>Leitura concluída</span></div>
+  </footer>
+  <nav class="tarokka-gm-toolbar" aria-label="Controles do mestre" data-gm><span>MESTRE</span><select class="tarokka-reading-mode" data-reading-mode aria-label="Modo de leitura"><option value="official">Oficial — sorteio</option><option value="reloaded">Reloaded — predeterminada</option></select><button type="button" class="tarokka-btn tarokka-reset" data-action="reset" title="Retirar todas as cartas da mesa e iniciar outra leitura">Nova leitura</button></nav>
+  <div class="tarokka-render-error" role="alert" hidden>A mesa 3D não pôde ser iniciada. Ative a aceleração gráfica do navegador e tente novamente.</div>
+</div>

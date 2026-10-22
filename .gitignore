@@ -1,0 +1,11 @@
+node_modules/
+test-results/
+playwright-report/
+build/
+backups/
+tmp/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
