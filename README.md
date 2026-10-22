@@ -4,9 +4,9 @@ Leve seus jogadores à tenda de Madame Eva no Foundry VTT: uma mesa 3D com carta
 
 ![Mesa de Madame Eva na visão do jogador](docs/previews/tarokka-player-table.png)
 
-![Carta Tarokka ampliada na visão do jogador](docs/previews/tarokka-player-card.png)
-
 ![Dados 3D do Dice So Nice durante a rolagem sobre a mesa na visão do jogador](docs/previews/tarokka-player-dice-so-nice.png)
+
+![Carta Tarokka ampliada na visão do jogador](docs/previews/tarokka-player-card.png)
 
 ## Instalação
 
