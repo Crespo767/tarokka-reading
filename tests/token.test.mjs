@@ -16,7 +16,7 @@ function hudDOM(){
   const controls=[];
   const column={append(button){controls.push(button);}};
   const ownerDocument={createElement(tag){return {tag,children:[],attributes:{},listeners:{},setAttribute(key,value){this.attributes[key]=value;},append(...items){this.children.push(...items);},addEventListener(type,handler){this.listeners[type]=handler;},remove(){controls.splice(controls.indexOf(this),1);}};}};
-  const root={ownerDocument,querySelector(selector){if(selector==='.tarokka-token-control')return controls[0];if(selector==='.col.right')return column;return null;}};
+  const root={ownerDocument,querySelector(selector){if(selector==='.tarokka-token-control')return controls[0];if(selector==='.col.left')return column;return null;}};
   return {root,controls};
 }
 
@@ -26,7 +26,7 @@ test('atalho Tarokka abre a mesa no HUD nativo v13 e no jQuery v12, sem duplicar
     const {root,controls}=hudDOM(),html=jquery?[root]:root;
     const hud={object:{actor:{name:'Madame Eva'}}};
     renderTarokkaTokenHUD(hud,html);renderTarokkaTokenHUD(hud,html);
-    assert.equal(controls.length,1);assert.equal(controls[0].children[1].textContent,'Tarokka');
+    assert.equal(controls.length,1);assert.equal(controls[0].children.length,1);
     assert.equal(controls[0].attributes['aria-label'],'Tarokka');
     let prevented=false,stopped=false;
     controls[0].listeners.click({preventDefault(){prevented=true;},stopPropagation(){stopped=true;}});

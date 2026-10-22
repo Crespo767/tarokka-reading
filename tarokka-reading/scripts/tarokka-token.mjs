@@ -17,14 +17,14 @@ export function renderTarokkaTokenHUD(hud,html) {
   if(!root?.querySelector)return;
   root.querySelector('.tarokka-token-control')?.remove();
   if(!isMadameEva(hud?.object??hud?.document))return;
-  const column=root.querySelector('.col.right')??root.querySelector('.col.left');
+  const column=root.querySelector('.col.left')??root.querySelector('.col.right');
   if(!column)return;
   const button=root.ownerDocument.createElement('button');
   button.type='button';button.className='control-icon tarokka-token-control';
   button.title='Abrir a leitura Tarokka';button.setAttribute('aria-label','Tarokka');
+  button.setAttribute('data-tooltip',button.title);
   const icon=root.ownerDocument.createElement('i');icon.className='fas fa-hat-wizard';icon.setAttribute('aria-hidden','true');
-  const label=root.ownerDocument.createElement('span');label.textContent='Tarokka';
-  button.append(icon,label);
+  button.append(icon);
   button.addEventListener('click',event=>{
     event.preventDefault();event.stopPropagation();game.tarokka?.open();
   });

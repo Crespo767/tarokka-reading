@@ -51,7 +51,9 @@
 .tarokka-gm-toolbar .tarokka-reset:disabled{opacity:.5;cursor:wait}
 
 /* The token shortcut belongs to Foundry's HUD, outside the reading window. */
-#token-hud .tarokka-token-control{display:flex;align-items:center;justify-content:center;gap:6px;width:max-content;min-width:40px;padding:6px 9px;font-size:12px;line-height:1.4;white-space:nowrap}
+#token-hud .tarokka-token-control{display:flex;align-items:center;justify-content:center}
+#token-hud .tarokka-token-control>i{margin:0;pointer-events:none}
+#token-hud .tarokka-token-control:focus-visible{outline:2px solid var(--control-hover-border-color,#c4a36d);outline-offset:2px}
 .tarokka-dice{position:absolute;left:50%;top:52%;transform:translate(-50%,-50%);z-index:5;pointer-events:none}
 .tarokka-dice-value{display:grid;place-items:center;width:68px;height:68px;background:#e7ddc9;color:#211b14;border:3px double #786449;border-radius:10px;font:32px Georgia,serif;box-shadow:3px 5px 0 #86745b}
 /* Keep the companion module's dice above the Tarokka pop-out while it is open. */
