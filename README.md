@@ -4,19 +4,15 @@ Módulo de Foundry VTT com mesa redonda em WebGL, cartas físicas animadas, vela
 
 A revisão também corrige o bloqueio dos controles ao fechar durante um sorteio e cancela a criação da cena se a janela fechar durante o carregamento. A leitura continua oferecendo os modos Oficial e Reloaded, dados 3D, registro numérico no chat, convite pelo token e notas reservadas ao mestre. Consulte [o relatório de desempenho](docs/PERFORMANCE.md) para medições, alterações e limites da validação.
 
-## Abrir a prévia
+## Imagens do módulo
 
-Na pasta deste projeto, execute `npm run preview` e abra <http://127.0.0.1:4173>. Requer Node.js 20.11 ou superior; não há dependências a instalar.
+**A mesa de Madame Eva** — cenário 3D com lamparinas, velas e as cinco posições da leitura.
 
-A prévia carrega os mesmos scripts, template, estilos e imagens do módulo. Você pode revelar as cinco cartas, clicar numa carta já revelada para aproximá-la, ampliá-la e consultar a profecia à sua esquerda. A seleção e o fechamento são compartilhados entre todos os clientes conectados; quem entra depois recebe a carta que estiver aberta. Feche pelo ×, com Esc ou clicando novamente na carta. O mestre reinicia pelo botão **Nova leitura**, que cancela ações pendentes e limpa todas as telas imediatamente. A barra do mestre contém apenas o seletor de modo e esse botão. O módulo não produz som nem música.
+![Mesa de Madame Eva com o baralho Tarokka e os controles do mestre](docs/previews/performance-after.png)
 
-O jogador abre e fecha cartas já reveladas sem esperar a resposta do mestre; a seleção também é enviada ao mestre para os demais clientes. Cada cliente amplia a carta recém-tirada assim que termina seus próprios dados e sua distribuição. Uma resposta de sincronização da mesma revisão durante a apresentação não cancela o movimento. Movimentos de cartas em mesas minimizadas ou ocultas são concluídos sem renderização, para que não bloqueiem o coordenador; a espera real dos dados do Dice So Nice antes do chat continua preservada.
+**Cartas e profecias** — selecione uma carta revelada para vê-la ampliada e consultar sua profecia em português.
 
-O mestre usa **Nova leitura** na barra inferior para recolher as cartas de todas as telas e recomeçar. Ao concluir as cinco cartas, o jogador vê **Leitura concluída** e pode selecionar as cartas para consultar a profecia. Na prévia, os títulos das abas e os links do rodapé identificam Mestre e Jogador.
-
-A visão do jogador contém a cena, o botão **Tirar uma carta**, com acabamento escuro e contorno em bronze, e, ao selecionar uma carta, a sua profecia. O botão não tem instrução adicional abaixo. Cabeçalho, apresentação, identificação de Madame Eva, lista lateral e narração foram retirados das duas visões. O mestre mantém os controles de leitura e o seletor de modo; os controles de desenvolvimento do módulo ficam fora da visão do jogador; o rodapé de troca de visão existe somente na prévia local. A bola de cristal foi retirada da visão do jogador; no mestre, ela fica numa área lateral livre.
-
-Para testar os jogadores, mantenha **uma aba de mestre** aberta e clique em **Abrir visão do jogador** no rodapé. As abas possuem identidades próprias e compartilham a leitura usando BroadcastChannel, inclusive com mais de um mestre aberto; a solicitação do jogador é atendida pela aba do mestre. Isso testa o fluxo local, sem substituir uma sessão real de Foundry. Não oferece acesso remoto para outros computadores. As cartas da prévia ficam salvas no localStorage do navegador e não alteram o mundo do Foundry.
+![Carta Tarokka ampliada com sua profecia em português na visão do jogador](docs/previews/performance-player.png)
 
 ## Usar no Foundry
 
